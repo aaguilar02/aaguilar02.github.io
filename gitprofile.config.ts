@@ -83,20 +83,12 @@ const CONFIG = {
       'https://github.com/tvanlaar/gitprofile/raw/main/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Public speaking',
+    'Protocol comprehension',
+    'Fluent in Spanish',
+    'PCR',
+    'Dip netting',
+    'Data collection',
   ],
   experiences: [
     {
@@ -124,16 +116,16 @@ const CONFIG = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'California State University, Stanislaus',
+      degree: 'M.S. Biology',
+      from: '2025',
+      to: 'Present',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'University of California, Merced',
+      degree: 'B.S. Ecology and Evolutionary Biology',
+      from: '2020',
+      to: '2024',
     },
   ],
   publications: [

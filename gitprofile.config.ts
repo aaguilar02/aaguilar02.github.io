@@ -52,12 +52,12 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tricia Van Laar',
+    title: 'Portfolio of Andres Aguilar',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'tvanlaar',
+    linkedin: 'andres-aguilar1122',
     x: '',
     mastodon: '',
     researchGate: '',
@@ -74,9 +74,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
+    website: 'https://aaguilar02.github.io',
     phone: '',
-    email: 'tvanlaar@csustan.edu',
+    email: 'aaguilar120@csustan.edu',
   },
   resume: {
     fileUrl:

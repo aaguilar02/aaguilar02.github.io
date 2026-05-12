@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Using Predator Gut Content eDNA to Improve Detection of California Tiger Salamanders Ambystoma californiense in Seasonal Wetlands',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This project is based on using environmental DNA to identify whether California Tiger Salamanders are being predated on by predaceous invertebrates. The goal is to identify whether or not these predaceous invertebrates can be used as a proxy for California Tiger Salamander surveys.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/aaguilar02/aaguilar02.github.io/raw/main/posterpic.jpeg',
+          link: 'https://github.com/aaguilar02/aaguilar02.github.io/raw/main/CTSeDNAposter.pdf',
         },
         {
           title: 'Project Name',

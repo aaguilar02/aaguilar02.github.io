@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://github.com/aaguilar02/aaguilar02.github.io/raw/main/CTSeDNAposter.pdf',
         },
         {
-          title: 'Project Name',
+          title: 'Life history observations of the rare stonefly ​Mesocapnia bulbosa in Corral Hollow,​ an intermittent stream in the Diablo Range​',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Presented research on the life history and developmental stategies of the rare stonefly Mesocapnia bublosa in intermittent streams of the California Diablo Mountain Range, highlighting rapid larval development, asynchronous growth patterns, and implications for conservation of temporary stream ecosystems.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/aaguilar02/aaguilar02.github.io/raw/main/Aguilar_Mesocapnia_bulbosa.pdf',
+          link: 'https://github.com/aaguilar02/aaguilar02.github.io/raw/main/Aguilar_Mesocapnia_bulbosa.pdf',
         },
       ],
     },
